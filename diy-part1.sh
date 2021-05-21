@@ -18,5 +18,5 @@
 
 
 git clone https://github.com/Zxilly/UA2F.git package/UA2F
-git clone [https://github.com/CHN-beta/rkp-ipid.git](https://github.com/CHN-beta/rkp-ipid.git) package/rkp-ipid
+git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
 make package/rkp-ipid/compile V=sc
